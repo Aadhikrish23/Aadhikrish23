@@ -1,1 +1,1 @@
-for the output : https://apple-clone-34246.web.app/
+For the Output : https://apple-clone-34246.web.app/
