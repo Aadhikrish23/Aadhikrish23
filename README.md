@@ -120,8 +120,7 @@ https://github.com/Aadhikrish23/RoninArc
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Aadhikrish23/Aadhikrish23/main/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/Aadhikrish23/Aadhikrish23/main/github-contribution-grid-snake.svg">
 ---
 
 <p align="center">
