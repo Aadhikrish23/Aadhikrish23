@@ -81,16 +81,30 @@ React • TypeScript • Node.js • MongoDB • Electron
 https://github.com/Aadhikrish23/RoninArc
 
 ---
+### 🌐 Personal Portfolio + CMS
 
-# 📊 GitHub Stats
+A full-stack **portfolio + content management system** where I can manage blogs, projects, and skills dynamically.
 
-<p align="center">
+**Key Highlights**
+- Custom admin dashboard (JWT auth)
+- Blog, Project & Skill management
+- Cloudinary image uploads
+- Fully responsive UI
+- REST API with scalable backend
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aadhikrish23&show_icons=true&theme=tokyonight" />
+**Tech Stack**  
+React • TypeScript • Node.js • Express • MongoDB • Tailwind • Cloudinary  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhikrish23&layout=compact&theme=tokyonight" />
+🔗 Live
+    https://aadhikrish.online
 
-</p>
+🔗 Repo: 
+    https://github.com/Aadhikrish23/Aadhikrish-Portfolio  
+
+---
+
+
+
 
 ---
 
@@ -105,6 +119,10 @@ https://github.com/Aadhikrish23/RoninArc
 # 🌐 Connect
 
 <p align="center">
+
+<a href="https://aadhikrish.online">
+<img src="https://skillicons.dev/icons?i=htmx" />
+</a>
 
 <a href="https://www.linkedin.com/in/aadhi-krish">
 <img src="https://skillicons.dev/icons?i=linkedin" />
